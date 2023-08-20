@@ -1,6 +1,6 @@
 # Q Network Getting Started
 
-Project to start exploration of Q networks.
+Project to start exploration of Q networks. Background on deep learning concepts and Tensorflow/Keras libraries useful.
 
 ## Setup
 
