@@ -1,0 +1,4 @@
+imageio==2.4.0
+pyvirtualdisplay==3.0
+tf-agents[reverb]==0.17.0
+pyglet==2.0.9
